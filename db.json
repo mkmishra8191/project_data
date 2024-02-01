@@ -1,0 +1,13 @@
+{
+    "schedules": [
+      {
+        "id": "1450",
+        "title": "test",
+        "description": "Git is a popular version control system used to track changes in code or other files. It allows multiple       developers to work on the same project simultaneously, without overwriting each other's changes. Git uses a       distributed architecture, which means that each developer has their own local copy of the repository, and       changes can be easily merged together.",
+        "subject": "test",
+        "frequency": "Weekly",
+        "repeat": "tuesday",
+        "time": "11:00AM"
+      }
+    ]
+  }
